@@ -1,0 +1,16 @@
+.card{
+    background-image: url('./background.jpg');
+    background-size: 30vw 70vh ;
+    border: 2px solid black;
+    width: 30%;
+    height: 70vh;
+    margin:20px auto;
+    color: white;
+}
+.temp{
+    border: 2px white;
+    background-color: white;
+    color: black;
+    width: 7rem;
+    margin: auto;
+}
